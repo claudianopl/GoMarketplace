@@ -1,12 +1,17 @@
 <h1 align="center">
-<img alt="GoMarketplace" src=".github/logo.svg" />
+<img alt="GoMarketplace" src=".github/logo.png" />
 </h1>
 
+## 🛍️ GoMarketplace
+Este repositório é referente ao desafio 'Fundamentos do React Native' do Bootcamp GoStack 11.0, da Rocketseat 🚀.
+
+---
 <p align="center">
  <a href="#-sobre">Sobre</a> |
  <a href="#-requisitos">Requisitos</a> |
  <a href="#-tecnologias">Tecnologias</a> |
  <a href="#%EF%B8%8F-como-executar">Como executar</a> |
+ <a href="#-executando-os-testes">Executando os testes</a> |
  <a href="#-licença">Licença</a> |
 </p>
 
